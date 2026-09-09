@@ -18,7 +18,7 @@ Closed Won Revenue by Industry & Company Tier | Enterprise accounts yield the hi
 
 ## Reflection (include in written summary)
 
-- Where did Q agree with the dashboard? Single-Domain Aggregations and Rankings, Dimensional Segmentations, 
+- Where did Q agree with the dashboard? Single-Domain Aggregations and Rankings, and Dimensional Segmentations.
 
 - Where did Q disagree or struggle? Why? 
 Grain and Visual Scope Limitations (Account-Level Details): Q struggled on Question 4 (identifying the top 10 accounts by support ticket volume alongside their total deal revenue) because the dashboard visuals were pre-aggregated at higher categorical grains (product area, priority, customer tier, and industry) rather than broken down at the individual account level (account_id).
